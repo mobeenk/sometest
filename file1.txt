@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
+
 file1
 cvhcnage
 
-
-change
-gygyyg
-=======
-segdseggse
->>>>>>> Stashed changes
